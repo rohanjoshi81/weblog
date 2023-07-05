@@ -17,20 +17,20 @@ Disclaimer : Although i have tested these on FireFox 27.0 and Chrome Canary , it
 
 Globes is a geographic data visualization project , used to show data spikes for various data figures like Google Search (Language based) or Earthquake frequency  . You can use it in your project/presentation for almost any statistical data using the WebGL Globe.
 
-Launch Globes!
+[Launch Globes!](http://data-arts.appspot.com/globe-search/)
 
 
 - Google Gravity
 
 “Everything that goes up must come down ” , Google Gravity follows Newton . Simple yet fun, this experiment literally breaks down your Google Search results and stacks them on top of one another the more you search. Just try shaking the browser window !
 
-[Launch Gravity!](http://data-arts.appspot.com/globe-search/)
+[Launch Gravity!](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/)
 
 - Webcam Toy
 
 Wanna use your webcam for cool effects without using any dedicated software . Webcam Toy to the rescue ! Webcam Toy  lets you apply over 70 types of live effects to your webcam Just through your browser. It can also take photos and save them to your computer for sharing on social networks !
 
-[Launch Webcam Toy!](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/)
+[Launch Webcam Toy!](http://webcamtoy.com/app/?app=html5&ref=ce)
 
 - Stars
 
@@ -52,6 +52,6 @@ Finally something for the gamers . CrossCode is a retro-style game written entir
 [Lunch CrossCode !](http://www.cross-code.com/en/play)
 
 
-These are just a few  experiments. For more visit ChromeExperiments 
+These are just a few  experiments. For more visit [ChromeExperiments](http://chromeexperiments.com/)
 
-The experiments library is always looking for exciting and new addons . It is encouraged to build upon existing projects . If you’ve made something fun, fast and beautiful in HTML5 and JavaScript, Submit Here !
+The experiments library is always looking for exciting and new addons . It is encouraged to build upon existing projects . If you’ve made something fun, fast and beautiful in HTML5 and JavaScript, [Submit Here](http://www.chromeexperiments.com/submit/)
