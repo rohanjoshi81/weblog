@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m a software developer with over 7 years of experience in software development, design, support and mentoring.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Apart from software tech, I am also interested in content writing, game design & testing.
+
+My areas of specialization include Solution Architecture, Java, Python, Devops, Wordpress, AWS, Server setup and SQL.
+
+To get in touch with me, simply shoot an email over to rohanjoshi81@gmail.com , I’ll get back to you as soon as possible.
+
+Thanks for visiting!
