@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rohan Joshi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer, Tech Enthusiast, Hobby Writer, Gamer"
+  bio    : "Software Engineer ⌨️ Tech Enthusiast 💻 Hobby Writer 🖋️ Gamer 🎮"
   location: "India"
   links:
     - label: "Email"
@@ -71,10 +71,7 @@ author:
       url: "https://www.linkedin.com/in/rohanjoshirj/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rohanjoshi81"
 
 footer:
   links:
@@ -86,10 +83,7 @@ footer:
       url: "https://www.linkedin.com/in/rohanjoshirj/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rohanjoshi81"
 
 defaults:
   # _posts
