@@ -77,6 +77,9 @@ author:
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
       url: "https://steamcommunity.com/id/SheriffSurfs"  
+    - label: "Buy me a Coffee"
+      icon: "fas fa-coffee"
+      url: "https://www.buymeacoffee.com/rohan08joshi"  
 
 footer:
   links:
@@ -91,7 +94,10 @@ footer:
       url: "https://github.com/rohanjoshi81"
     - label: "Steam"
       icon: "fab fa-fw fa-steam"
-      url: "https://steamcommunity.com/id/SheriffSurfs"    
+      url: "https://steamcommunity.com/id/SheriffSurfs"   
+    - label: "Buy me a Coffee"
+      icon: "fas fa-coffee"
+      url: "https://www.buymeacoffee.com/rohan08joshi"        
 
 defaults:
   # _posts
