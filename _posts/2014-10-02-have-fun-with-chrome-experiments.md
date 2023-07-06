@@ -1,6 +1,6 @@
 ---
 title: "Have Fun with Chrome Experiments !"
-date: 2014-10-02T15:34:30-04:00
+date: 2014-10-02T15:34:30+05:30
 categories:
   - blog
 tags:
