@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Static Ip in Fedora 19 !"
+title: "Setting Up Static Ip in Fedora 19"
 date: 2014-01-06T13:10:30+05:30
 categories:
   - blog
