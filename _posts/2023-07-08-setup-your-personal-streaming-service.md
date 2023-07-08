@@ -1,6 +1,6 @@
 ---
 title: "Setup your personal streaming service - using Plex, Sonarr, Radarr and Jackett"
-date: 2021-03-10T12:00:00+05:30
+date: 2023-07-08T12:00:00+05:30
 categories:
   - blog
 tags:
