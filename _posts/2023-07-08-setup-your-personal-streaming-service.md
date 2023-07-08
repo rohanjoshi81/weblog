@@ -8,13 +8,11 @@ tags:
   - tech
 ---
 
-This is a very basic guide to help you setup your own streaming service on Windows 10 or 11. I have detailed only basic configuration which will you setup very quickly, for advanced configurations there are better detailed guides especially for Linux.
-
-The idea is to setup a media server and then automate it to download media and make it viewable from anywhere in least possible clicks. 
+This is a very basic guide to help you setup your own streaming service on Windows 10 or 11. I have detailed only basic configuration in this post which will help you setup very quickly, for advanced configurations there are better detailed guides especially for Linux.
 
 # Overview
 
-Once the setup is done, you will just search for the content you want in your browser on sonarr/radarr and In some time it will be viewable across your devices. 
+The idea is to setup a media server and then automate it to download media and make it viewable from anywhere in least possible clicks. Once the setup is done, you will be able to search for any content in your browser on sonarr/radarr and in some time it will be viewable across your devices via your media server. 
 
 A bit detailed explanation : We will be using Plex as our media server running on Windows which will help us stream files in our for media folders. Sonarr and Radarr act as search engine for tv shows and movies, they are backed by indexers configured in Jackett which actually finds the torrents with active seeders. Sonarr/Radarr filter out the best torrent based on our defined params and then uses torrent client to actually download. Once downloaded the files are moved from Downloads to Plex media folders. 
 
