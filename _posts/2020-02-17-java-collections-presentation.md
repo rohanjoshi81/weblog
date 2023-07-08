@@ -8,7 +8,7 @@ tags:
   - tech
 ---
 
-Here is a basic Java collections informative which I presented while training software development interns at Fresche Solutions.
+Here is a basic Java collections informative which I presented while training software development interns.
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
