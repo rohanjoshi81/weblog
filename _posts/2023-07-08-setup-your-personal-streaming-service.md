@@ -8,29 +8,39 @@ tags:
   - tech
 ---
 
-This is a very basic guide to help you setup your own streaming service on Windows 10 or 11. There are better detailed guides out there especially for Linux.
+This is a very basic guide to help you setup your own streaming service on Windows 10 or 11. I have detailed only basic configuration which will you setup very quickly, for advanced configurations there are better detailed guides especially for Linux.
 
-The idea is to setup a media server and then automate it to download media and make it viewable from anywhere in least possible clicks. You just need a dedicated device capable of running a modern OS, an old laptop is enough. I am using a 2013 Asus X550CL lapotop with i3 3rd gen and 4 gigs of Ram as my server. It is best to connect the server to router via Ethernet cable.
+The idea is to setup a media server and then automate it to download media and make it viewable from anywhere in least possible clicks. 
+
+# Overview
+
+Once the setup is done, you will just search for the content you want in your browser on sonarr/radarr and In some time it will be viewable across your devices. 
+
+A bit detailed explanation : We will be using Plex as our media server running on Windows which will help us stream files in our for media folders. Sonarr and Radarr act as search engine for tv shows and movies, they are backed by indexers configured in Jackett which actually finds the torrents with active seeders. Sonarr/Radarr filter out the best torrent based on our defined params and then uses torrent client to actually download. Once downloaded the files are moved from Downloads to Plex media folders. 
+
+# What you will need
+
+You just need a dedicated device capable of running a modern OS, an old laptop is enough. I am using a 2013 Asus X550CL lapotop with i3 3rd gen and 4 gigs of Ram as my server. Laptops are better because they have less power consumption so easier to run 24/7 if need be. It is best to connect the server to router via Ethernet cable.
 
 Here are the softwares we will be using 
 
 - Plex Media server
-- Sonarr - for searching tv shows
-- Radarr - for searching movies
-- Jackett - for adding indexer for both Sonarr/Radarr
+- Sonarr - 
+- Radarr 
+- Jackett
 - A torrent client ( Qbittorrent )
 - A browser ( Brave, Firefox or Opera - personal choice )
 - A VPN ( optional )
 
-Everything except Plex is optional if you don't want to download content from the internet and use your own personal media files.
+Everything except Plex and browser is optional if you don't want to download content from the internet and just use your own personal media files.
 
-# Steps
+# Steps to follow
 
 - Format your system and install fresh copy of Windows 10
 
 - Download plex from - https://www.plex.tv/media-server-downloads/
 
-- Open Plex Media server on browser and Sign up to plex. Follow the first time setup and set media folders. By default there will be Photos, Videos and Music. You can create other folders like Home Videos or TV Shows as per  your need. If you have any media files you can copy to these folders.
+- Open Plex Media server on browser and Sign up. Follow the first time setup and set media folders. By default there will be Photos, Videos and Music. You can create other folders like Home Videos or TV Shows as per  your need. If you have any media files you can copy to these folders.
 
 - From any other device - other computer, Android/iPhone, Smart tv install the Plex client and login to access your server. You will be able to stream the media content from any device on the same wifi network. In case you want to stream the content remotely ( outside you local network ) just Enable Remote Access in Settings > Server > Remote Access from the Plex media server.
 
@@ -40,7 +50,7 @@ You can stop here if your need is fulfilled. Continue if you want to automate th
 
 - Install a torrent client preferable Qbittorrent https://www.qbittorrent.org/download . Open setting > Enable Web UI , change the port if needed and set a username and password. Open the localhost: port with credentials
 
-- Install Jackett from https://github.com/Jackett/Jackett/releases , enable it as a Windows service. Double clicking it will open it in browser, now we need to add a indexer so choose from the multiple options and add the preferable one ( You may need a account for this ). After saving, You will see a indexer on main page. Click on Torznab feed button and copy the API key from the same page.
+- Install Jackett from https://github.com/Jackett/Jackett/releases , enable it as a Windows service. Double clicking it will open it in browser, now we need to add a indexer so choose from the multiple options and add the preferable one ( You may need a account for this ). After saving, You will see a indexer listed on main page. Click on Torznab feed button and copy the API key from the same page.
 
 - Install Sonarr from https://sonarr.tv/#download , enable it as a Windows service. Open it ( it will again open in browser ) and configure these settings - Media Management ( Choose the root folders which will be same as Plex media folders ) , Profiles ( set the preferred quality of file , language ) , Indexers ( Add Torznab as a new index - in URL/API Key fields set the feed URL/key copied from Jackett indexer ) , Download Clients ( choose Qbittorrent - set the host , port , username , password )
 
