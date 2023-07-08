@@ -8,7 +8,7 @@ tags:
   - tech
 ---
 
-This post is related to moving a apache ant and ivy based build automation and dependency management to maven. This could be helpful if you are working on a older Java project and want to move your project to spring boot and consequently work towards microservices.
+This is a basic guide for moving an apache ant and ivy based project to maven. Apache Ant is used for build automation and Ivy for dependency management. Maven can perform both tasks and comes with more features. This could be helpful if you are working on a older Java project and want to move your project to spring boot.
 
 # Steps 
 
