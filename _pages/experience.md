@@ -3,7 +3,7 @@ permalink: /experience/
 title: "Experience"
 ---
 
-Currently working as a Product Engineering Lead at a prominent Indian IT firm, creating solutions for digital learning and career enablement.
+Currently working as Product Engineering Lead at a prominent Indian IT firm, creating solutions for digital learning and career enablement.
 
 My past professional experience includes global organizations such as Capgemini and Cognizant, primarily as a software developer in Banking & Financial domain for leading US banks.
 
