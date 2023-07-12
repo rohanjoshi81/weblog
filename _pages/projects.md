@@ -6,35 +6,35 @@ title: "Projects"
 ## Face Recognition using OpenCV
 
 Information Retrieval using Face Recognition. A face recognition app based on OpenCV written in C++.
-Link - https://github.com/rogueleader/irfr
+Link - [IRFR](https://github.com/rogueleader/irfr)
   
   
 ## Bill Payment System
 
 An Automated Bill Payment System which allows customers to check and pay due bills to various vendors. Written in Java.
-Link - https://github.com/rogueleader/Bill-Payment-System
+Link - [Bill Payment System](https://github.com/rogueleader/Bill-Payment-System)
 
 
 ## File Tracking System
 
 A basic File Tracking System for keeping track of hard-files at various departments in an office. Written in php and mysql.
-Link - https://github.com/rogueleader/FTS
+Link - [FTS](https://github.com/rogueleader/FTS)
 
 
 ## Scrapbook
 
 A microblogging social network written in php.
-Link - https://github.com/rogueleader/Scrapbook
+Link - [ScrapBook](https://github.com/rogueleader/Scrapbook)
 
 
 ## Auticure
 
 A static website related to Autism built for NGO Ammucare. Written in HTML.
-Link - http://rogueleader.github.io/autiCure-web/
+Link - [Auticure](http://rogueleader.github.io/autiCure-web/)
 
 
 ## FlickSort
 
 Flick Sort is a python based software allowing you to sort movies in a folder based on their IMDB rating.
-Link - https://github.com/rohanjoshi81/FlickSort
+Link - [FlickSort](https://github.com/rohanjoshi81/FlickSort)
  
