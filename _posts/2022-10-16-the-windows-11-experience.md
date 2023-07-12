@@ -1,5 +1,5 @@
 ---
-title: " The Windows 11 Experience and Technical Tips"
+title: " The Windows 11 Experience "
 date: 2022-10-16T17:10:30+05:30
 categories:
   - blog
