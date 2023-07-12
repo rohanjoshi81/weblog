@@ -60,17 +60,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rohan Joshi"
+  name   : "Rohan J"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Software Engineer ⌨️ Tech Enthusiast 💻 Hobby Writer 🖋️ Gamer 🎮"
-  location: "India"
+  bio    : "Software Engineer 💻 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rohanjoshi81@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rohanjoshirj/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rohanjoshi81"
@@ -86,9 +82,6 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rohanjoshi81@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rohanjoshirj/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rohanjoshi81"
