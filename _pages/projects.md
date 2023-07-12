@@ -29,7 +29,7 @@ Link - https://github.com/rogueleader/Scrapbook
 
 ## Auticure
 
-Information Retrieval using Face Recognition. A face recognition app based on OpenCV written in C++.
+A static website related to Autism built for NGO Ammucare. Written in HTML.
 Link - http://rogueleader.github.io/autiCure-web/
 
 
