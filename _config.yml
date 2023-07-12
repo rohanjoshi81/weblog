@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Rohan J"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Software Engineer 💻 
+  bio    : "Software Engineer 💻"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
