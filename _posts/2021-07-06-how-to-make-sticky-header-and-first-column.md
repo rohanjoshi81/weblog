@@ -1,6 +1,5 @@
 ---
 title: "Angular material - How to make header & column sticky"
-description: A post on how to make header and first column sticky in Angular Material tables
 date: 2021-07-06T12:22:30+05:30
 categories:
   - blog
