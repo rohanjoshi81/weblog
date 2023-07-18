@@ -1,5 +1,5 @@
 ---
-title: "Angular material - How to make header & column sticky"
+title: "Angular - How to make header & column sticky"
 date: 2021-07-06T12:22:30+05:30
 categories:
   - blog
